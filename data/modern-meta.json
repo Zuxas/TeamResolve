@@ -1,0 +1,173 @@
+{
+  "generated": "2026-10-16T23:38Z",
+  "format": "modern",
+  "window_days": 30,
+  "event_range": {
+    "min": "2026-09-17",
+    "max": "2026-10-15"
+  },
+  "total_events": 159,
+  "total_decks": 1957,
+  "archetypes": [
+    {
+      "rank": 1,
+      "name": "Broodscale Bloodchief",
+      "decks": 372,
+      "share": 19.0,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 2,
+      "name": "Izzet Cutter Prowess",
+      "decks": 131,
+      "share": 6.7,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 3,
+      "name": "Pinnacle Affinity",
+      "decks": 103,
+      "share": 5.3,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 4,
+      "name": "Scepter Chant",
+      "decks": 98,
+      "share": 5.0,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 5,
+      "name": "Esper Blink",
+      "decks": 92,
+      "share": 4.7,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 6,
+      "name": "Devoted Combo",
+      "decks": 82,
+      "share": 4.2,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 7,
+      "name": "Boros Aggro",
+      "decks": 78,
+      "share": 4.0,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 8,
+      "name": "Urzatron",
+      "decks": 76,
+      "share": 3.9,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 9,
+      "name": "Instant Reanimator",
+      "decks": 75,
+      "share": 3.8,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 10,
+      "name": "Ruby Storm",
+      "decks": 71,
+      "share": 3.6,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 11,
+      "name": "4/5C Aggro",
+      "decks": 52,
+      "share": 2.7,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 12,
+      "name": "5C Domain Aggro",
+      "decks": 50,
+      "share": 2.6,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 13,
+      "name": "Dimir Midrange",
+      "decks": 48,
+      "share": 2.5,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 14,
+      "name": "Amulet Titan",
+      "decks": 48,
+      "share": 2.5,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 15,
+      "name": "Rakdos Delirium",
+      "decks": 47,
+      "share": 2.4,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 16,
+      "name": "Living End",
+      "decks": 38,
+      "share": 1.9,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 17,
+      "name": "Dimir Murktide",
+      "decks": 28,
+      "share": 1.4,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 18,
+      "name": "Eldrazi Ramp",
+      "decks": 27,
+      "share": 1.4,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 19,
+      "name": "Landless Belcher",
+      "decks": 26,
+      "share": 1.3,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    },
+    {
+      "rank": 20,
+      "name": "Boros Ponza",
+      "decks": 24,
+      "share": 1.2,
+      "has_playbook": false,
+      "color": "#5eb5cf"
+    }
+  ]
+}
