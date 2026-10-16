@@ -192,7 +192,7 @@
             const total = data.total_decks;
             const events = data.total_events;
             const dateMax = data.event_range.max || '';
-            gen.textContent = `Live data · ${total.toLocaleString()} decklists · ${events} events · through ${dateMax} · source: MTG Meta Analyzer DB`;
+            gen.textContent = `Last ${data.window_days || 30}-day snapshot · ${total.toLocaleString()} decklists · ${events} events · through ${dateMax} · Source: MTG Meta Analyzer`;
 
             const maxShare = data.archetypes[0]?.share || 1;
             tbody.innerHTML = data.archetypes.map(a => {

@@ -68,7 +68,8 @@ deck-guide-intake.md
 planning.html
 
 # ── Generated data folder (runtime JSON, not source) ─────────
-data/
+data/*
+!data/modern-meta.json
 
 # journey/ is now public — removed from ignore
 
