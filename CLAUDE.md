@@ -106,3 +106,9 @@ b6267fb — fix: deep encoding cleanup (mojibake, BOM) from 26 files
 - SB balance check: use row-by-row parsing, NOT r'sb-out[^>]*>.*?(\d+)' (buggy)
 - Inline <style> overrides external CSS — check both when colors don't apply
 - NEW: All playbook paths now have format prefix (modern/, standard/, pioneer/)
+
+## Verification & Hot-Zone Protocol
+
+- **State verification first.** Before starting any work, state how you will verify it.
+- **Verify after.** After finishing, run that verification and report the results -- evidence, not just assertion.
+- **Hot zones require sign-off.** Before changing any code in a hot zone, ASK first and explain the blast radius (what breaks if it's wrong, and how far it reaches). Hot zones in this project: published playbook content and the deploy/publish path -- anything that goes live or public.
