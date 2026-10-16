@@ -10,7 +10,13 @@
 - Local: E:\vscode ai project\My-Website\
 - Current commit: b6267fb
 
-## FOLDER STRUCTURE (reorganized April 8, 2026)
+## ARCHIVE (October 16, 2026)
+All 45 April 2026 playbooks now live in archive/2026/<format>/ with an "Archived" banner.
+The old modern/, standard/ and pioneer/ paths hold redirect stubs only.
+New-season playbooks go back in modern/, standard/ and pioneer/. Archive them later to
+archive/<year>/<format>/ the same way. From an archived playbook the site root is ../../../
+
+## FOLDER STRUCTURE (reorganized April 8, 2026) -- superseded by ARCHIVE above
 Root: index.html, deck-guides.html, meta.html, team.html, analyze.html,
       deckbuilding.html, planning.html, bio.html, styles.css, images/
 
